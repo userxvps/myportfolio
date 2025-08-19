@@ -14,7 +14,7 @@
         "description": "",
         "published_at": null
     },
-    "commit": "ba16a8c4f3a51b5aeff492a360d17ee03bfd35e7",
+    "commit": "9ce76eb863b3ca9b9d8324acaf09f98cce538a86",
     "files": {
         "components": {
             "HomePage": {
@@ -8186,19 +8186,13 @@
                 "robots": {
                     "formula": {
                         "type": "value",
-                        "value": "https://github.com/userxvps/directus_custom_extensions/blob/ead454dd84531bc8b6a0e55f59a9e971613a627f/robots.txt"
+                        "value": "https://drive.google.com/uc?export=download&id=1ah1QhZya_7CUIPMRj6PuIGBtxdw0wbuF"
                     }
                 },
                 "sitemap": {
                     "formula": {
                         "type": "value",
-                        "value": "https://github.com/userxvps/directus_custom_extensions/blob/ead454dd84531bc8b6a0e55f59a9e971613a627f/sitemap.xml"
-                    }
-                },
-                "manifest": {
-                    "formula": {
-                        "type": "value",
-                        "value": "https://drive.google.com/uc?export=download&id=1CObGVUx1uIZ25TOvu9y0gdYnLYzAv5Q_"
+                        "value": "https://drive.google.com/uc?export=download&id=1qUNTqcAnFzJCLpsF9oM_WOBYaO3GHjBB"
                     }
                 }
             }
